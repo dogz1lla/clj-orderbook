@@ -1,3 +1,5 @@
+![simulation](orderbook_demo.gif)
+
 # Description
 Simple model of how order book looks like and operates on an exchange.
 
